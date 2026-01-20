@@ -11,3 +11,7 @@ Projekt zaliczeniowy z przedmiotu **Metody Uczenia Maszynowego**, wykonany na po
 (oryginalnie plik ważył około **410 MB**, przez co nie mogłem przesłać go bezpośrednio na GitHub).
 
 Po pobraniu repozytorium należy rozpakować plik `.rar`, aby uzyskać dostęp do danych w formacie `.csv`.
+
+
+## 🔗 Link do repozytorium praca na zajęciach z Metod Uczenia Maszynowego
+https://github.com/Jedrek11/Metody-Uczenia-Maszynowego
